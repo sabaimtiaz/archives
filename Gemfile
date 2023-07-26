@@ -2,6 +2,7 @@
 
 source "https://rubygems.org"
 gem "jekyll"
-gem "github-pages", group: :jekyll_plugins
 
-# gem "rails"
+gem "rails"
+gem "jekyll-remote-theme"
+gem "jekyll-seo-tag"  
